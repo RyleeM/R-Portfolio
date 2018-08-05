@@ -6,3 +6,27 @@
   padding: 8px;
   margin: 5px;
 }
+img{
+  width: 250px;
+}
+h1{
+  font-family: serif;
+  font-size: 40px;
+  color: coral;
+}
+h2{
+  font-family: serif;
+  font-size: 30px;
+  color: coral;
+}
+h4{
+  font-family: serif;
+  font-size: 30px;
+  color: coral;
+}
+.bio{
+  font-size: 20px;
+}
+.int{
+  font-size: 20px;s
+}
